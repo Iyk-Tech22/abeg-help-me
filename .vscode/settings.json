@@ -1,0 +1,21 @@
+{
+	"cSpell.words": [
+		"Abeg",
+		"abeghelpme",
+		"clsx",
+		"Didn",
+		"hookform",
+		"SEOCONFIG",
+		"signin",
+		"signout",
+		"signup",
+		"sonner",
+		"zxcvbn"
+	],
+
+	"editor.codeActionsOnSave": {
+		"source.addMissingImports": "never"
+	},
+
+	"tailwindCSS.rootFontSize": 16
+}
